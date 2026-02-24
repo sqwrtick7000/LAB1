@@ -1,5 +1,5 @@
 # LAB1
-#include < meow >
+#include <iostream>
 #include <string>
 using namespace std;
 
